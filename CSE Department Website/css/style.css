@@ -1,0 +1,261 @@
+
+body {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 5s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+#strip{
+    background-color: lavender;
+    height: 50px;
+    width:100%;    
+}
+#header{
+    background-color: white;
+    height: 50px;
+    width: 100%;
+}
+#header img{
+    float: right;
+    height: 80px;
+}
+#header img{
+    float: left;
+    width: 50%;
+    
+}
+#imge{
+    background-color: white;
+    height: 450px;
+    width: 100%;
+}
+#imge img{
+    height: 440px;
+    width: 100%;
+}
+#strip ul{
+    float: left;   
+}
+#strip ul li{
+    display: inline;
+    margin-right: 40px;  
+}
+
+#Abouthead{
+    background-color:khaki;
+    margin-top: 10px;
+    height: 45px;
+    width:100%;
+    color: white;
+}
+#Abouthead h1{
+    font-size: 40px;
+    font-style:italic;
+}
+#About{  
+    height: 420px;
+    width: 100%;
+}
+#About p{
+    font-size: 25px;
+    font-style:normal;
+}
+#About img{
+    height:300px;
+    float: right;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+#About img{
+    height: 250px;
+    float:left;
+    margin-right: 150px;
+}
+#About2{
+    height: 400px;   
+}
+#About2 p1{
+    font-style: normal;
+    font-size: 25px;   
+    padding-bottom: 20px;
+}
+#About2 img{
+    height:250px;
+    float: right;
+    margin-top: 20px;
+    margin-left: 100px;  
+}
+#About2 img{
+    height: 250px;
+    float:left; 
+    margin-right:50px ;  
+}
+#Missionhead{
+    background-color: deepskyblue;
+    font-size: 20px;
+    font-style:italic; 
+    color: white;  
+}
+#Mission1{
+    font-style: normal;
+    font-size: 25px;
+}
+#Mission1 img{
+    float: center;
+    margin-left: 350px;
+}
+#Mission2{
+    font-size: 25px;
+    font-style: normal;
+}
+#Mission2 img{
+    height: 250px;
+    padding-left: 250px;
+    padding-top: 30px;
+}
+#Facultyhead{
+    background-color:green;
+    font-size: 20px;
+    font-style: italic;
+    color: honeydew;
+}
+#Faculty1{
+    font-size: 25px;
+    font-style: normal;
+}
+#Faculty2{
+    font-size: 25px;
+    font-style:normal;
+}
+#Faculty2 img{
+    height: 270px;
+    padding-top: 50px;
+    padding-left: 60px;
+}
+#Faculty3{   
+    font-size: 27px;
+    font-style: italic;
+}
+#Faculty3 img{
+     height: 200px;
+     padding-left: 300px;
+}
+#Infhead{
+    color: white;
+    background-color: blueviolet;
+    font-size: 20px;
+    font-style: italic;
+}
+#Inflist{
+    font-size: 25px;
+}
+#Inf1{
+    font-size:25px;
+}
+#Inf1 img{
+    height:250px;
+}
+#Inf2{
+    font-size: 25px;
+}
+#Inf2 img{
+    height: 250px;
+    padding-left: 200px;
+}
+#Inf3{
+    font-size: 25px;
+}
+#Inf3 img{
+    height: 250px;
+    padding-left: 200px;
+}
+#Innovativehead{
+    font-size: 20px;
+    font-style: italic;
+    color: white;
+    background-color: chartreuse;
+}
+#Innovative1{
+    font-size: 25px;
+}
+#Innovative1 img{
+    height: 250px;
+    padding-left: 400px;    
+}
+#InnovativeP{
+    font-size: 25px;    
+}
+#InnovativeP h2{
+    font-style: italic;
+}
+#InnovativeP img{
+    height:250px;
+    padding-left: 100px;
+}
+#InnovativeW h2{
+    font-style: italic;
+}
+#InnovativeW{
+    font-size: 25px;
+}
+#InnovativeW img{
+    height:250px;
+    padding-left: 100px;
+}
+#InnovativeC h2{    
+    font-style: italic;
+}
+#InnovativeC{
+    font-size: 25px;
+}
+#InnovativeC img{
+    height:250px;
+    padding-left: 100px;
+}
+#TAPhead{
+    font-size: 20px;
+    font-style: italic;
+    background-color: chocolate;
+    color: white;
+}
+#TAP1{
+    font-size: 25px;   
+}
+#TAP2{
+    font-size: 25px;
+}
+#Training{
+    font-size: 25px;
+}
+#Placements{
+    font-size: 25px;    
+}
+#Placements img{
+    height:90px;
+}
+#Training h3{
+    font-style: italic;
+}
+#Placements h3{
+    font-style: italic;
+}
+#Contact{
+    height: 200px;
+    background-color: yellow;
+}
+#Training img{
+    padding-left: 300px;
+}
